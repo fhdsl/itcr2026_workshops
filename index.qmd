@@ -4,7 +4,6 @@ output:
   html_document
 ---
 
-
 ## Workshops
 
 PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations
@@ -16,3 +15,11 @@ Beyond the Basics for Cancer Informatics Data Visualization
 
   * 7 - 8:30 pm
   * Grace Auditorium
+
+## WiFi and Website access
+
+Use the `Guest` or `secure-guest` WiFi networks to connect to WiFi. See the CSHL Meeting Slack for information on how to connect to the `secure-guest` network.
+
+This website: [https://bit.ly/4gGfsPP](https://bit.ly/4gGfsPP)
+
+![QR code to access this website](Qq7fjTBxkGwiu5Y_Untitled 2026-07-15.png)
