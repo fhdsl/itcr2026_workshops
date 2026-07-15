@@ -1,10 +1,15 @@
 ---
-title: "**Workshop Info**"
+title: "**Workshops at ITCR 2026**"
 output:
   html_document
 ---
 
-## Workshops
+
+```{r, echo = FALSE}
+knitr::include_graphics(here::here("resources", "images", "itcr.png"))
+```
+
+
 
 PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations
   
