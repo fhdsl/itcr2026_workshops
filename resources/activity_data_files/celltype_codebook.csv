@@ -1,0 +1,57 @@
+﻿Code,Cell type
+E003,H1 Cell Line
+E004,H1 BMP4 Derived Mesendoderm Cultured Cells
+E005,H1 BMP4 Derived Trophoblast Cultured Cells
+E006,H1 Derived Mesenchymal Stem Cells
+E007,H1 Derived Neuronal Progenitor Cultured Cells
+E011,hESC Derived CD184+ Endoderm Cultured Cells
+E012,hESC Derived CD56+ Ectoderm Cultured Cells
+E013,hESC Derived CD56+ Mesoderm Cultured Cells
+E016,HUES64 Cell Line
+E024,4star
+E027,Breast Myoepithelial Cells
+E028,Breast vHMEC
+E037,CD4 Memory Primary Cells
+E038,CD4 Naive Primary Cells
+E047,CD8 Naive Primary Cells
+E050,Mobilized CD34 Primary Cells Female
+E053,Neurosphere Cultured Cells Cortex Derived
+E054,Neurosphere Cultured Cells Ganglionic Eminence Derived
+E055,Penis Foreskin Fibroblast Primary Cells skin01
+E056,Penis Foreskin Fibroblast Primary Cells skin02
+E057,Penis Foreskin Keratinocyte Primary Cells skin02
+E058,Penis Foreskin Keratinocyte Primary Cells skin03
+E059,Penis Foreskin Melanocyte Primary Cells skin01
+E061,Penis Foreskin Melanocyte Primary Cells skin03
+E062,Peripheral Blood Mononuclear Primary Cells
+E065,Aorta
+E066,Adult Liver
+E070,Brain Germinal Matrix
+E071,Brain Hippocampus Middle
+E079,Esophagus
+E082,Fetal Brain Female
+E084,Fetal Intestine Large
+E085,Fetal Intestine Small
+E087,Pancreatic Islets
+E094,Gastric
+E095,Left Ventricle
+E096,Lung
+E097,Ovary
+E098,Pancreas
+E100,Psoas Muscle
+E104,Right Atrium
+E105,Right Ventricle
+E106,Sigmoid Colon
+E109,Small Intestine
+E112,Thymus
+E113,Spleen
+E114,A549
+E116,GM12878
+E117,HELA
+E118,HEPG2
+E119,HMEC
+E120,HSMM
+E122,HUVEC
+E123,K562
+E127,NHEK
+E128,NHLF
