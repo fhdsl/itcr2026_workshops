@@ -1,5 +1,11 @@
 # PhysiCell - Building and Exploring Web-Based Cancer Therapy Simulations
 
+This workshop will be delivered by the PhysiCell team. 
+
+```{r, echo = FALSE, fig.width=0.25}
+knitr::include_graphics(here::here("resources", "images", "physicell.png"))
+```
+
 ## Slides
 
 Slides for workshop: [https://github.com/physicell-training/itcr2026/tree/main/slides](https://github.com/physicell-training/itcr2026/tree/main/slides)
