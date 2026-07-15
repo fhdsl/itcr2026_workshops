@@ -1,26 +1,20 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "OTTR Template Website"
+  title: "Workshops at ITCR Annual Meeting 2026"
   navbar:
     left:
     - text: ""
       href: index.qmd
       icon: fa-home
-    - text: 1. Setup
-      href: setup.qmd
-    - text: 2. Hosting
-      href: hosting.qmd
-    - text: Editing
-      href: editing.qmd
-    - text: 3. Style
-      href: style.qmd
-    - text: 4. Git Actions
-      href: git_actions.qmd
-    - text: More ottr docs
-      href: https://www.ottrproject.org/
+    - text: PhysiCell Workshop
+      href: physicell.qmd
+    - text: Data Visualization Workshop
+      href: dataviz.qmd
+    - text: Data Visualization Activity
+      href: activity.qmd
 
 format:
   html:

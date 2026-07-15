@@ -1,0 +1,19 @@
+# Data Visualization Activity
+
+## Data
+
+The Xpresso model was developed to predict gene expression from DNA sequence alone.
+
+Raw data is available here: [https://ars.els.cdn.com/content/image/1-s2.0-S2211124720306161-mmc2.xlsx](https://ars.els.cdn.com/content/image/1-s2.0-S2211124720306161-mmc2.xlsx)
+
+<!--
+Include csv link here
+-->
+
+## Description of data
+
+The available data includes experimentally known gene expression in several cell types as well as predicted gene expression for those cell types.
+
+## Activity description
+
+In this activity, we are going to perform several exploratory data visualization steps. Then, we will build and polish an expository data visualization.

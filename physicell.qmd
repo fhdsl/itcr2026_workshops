@@ -1,0 +1,15 @@
+# PhysiCell - Building and Exploring Web-Based Cancer Therapy Simulations
+
+## Slides
+
+Slides for workshop: [https://github.com/physicell-training/itcr2026/tree/main/slides](https://github.com/physicell-training/itcr2026/tree/main/slides)
+
+## Galaxy
+
+**Please make sure that you are registered for and logged into the Galaxy platform prior to the workshop.**
+
+Galaxy: [usegalaxy.org](https://usegalaxy.org/)
+
+## Additional Resources
+
+See [https://github.com/physicell-training/itcr2026](https://github.com/physicell-training/itcr2026) for additional resources.

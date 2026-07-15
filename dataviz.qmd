@@ -1,0 +1,11 @@
+# Beyond the Basics for Cancer Informatics Data Visualization
+
+## Slides
+
+[Slides are available here](https://docs.google.com/presentation/d/13V-lywz7wrZz-NIojiRIh1xx_ZvVhyUQwWsC7xrWjmw/edit?usp=sharing)
+
+## Please have
+
+A phone or laptop for interactive `slido` questions.
+
+A laptop to play with data for the activity -- you can use `R` or `Python`, whatever you are most comfortable with.
