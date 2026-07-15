@@ -1,36 +1,25 @@
 ---
-title: "**Website Name**"
+title: "*Workshops at the ITCR Annual Meeting 2026**"
 output:
   html_document
 ---
 
-<div class = "banner_color">
-Banner text!  
-</div>
+## Workshops
 
-### **About**
+PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations
+  
+  * 4 - 6 pm
+  * Grace Auditorium
 
-This website was created with the [OTTR_Quarto website template](https://github.com/ottrproject/OTTR_Quarto). 
+Beyond the Basics for Cancer Informatics Data Visualization
 
-This enables simpler creation of websites that have automated checks for broken URLs and spelling errors, as well as automated rendering of all html files. No need to worry about git conflicts for html files! See [ottrproject.org](https://www.ottrproject.org/) for more docs and details. 
+  * 7 - 8:30 pm
+  * Grace Auditorium
 
-Here is how you can include images in your website pages (this one is saved in `resources/images` to keep things tidy:
+## WiFi and Website access
 
-```{r, fig.align='center', fig.alt= "Example image", echo = FALSE, out.width="30%"}
-knitr::include_graphics("resources/images/example_image.png")
-```
+Use the `Guest` or `secure-guest` WiFi networks to connect to WiFi. See the CSHL Meeting Slack for information on how to connect to the `secure-guest` network.
 
- 
- 
-We will go through the following:
+This website: [https://bit.ly/4gGfsPP](https://bit.ly/4gGfsPP)
 
-1. How to set up your repository to enable the GitHub actions of the template. (Setup tab)
-2. How to host your website using GitHub (Hosting tab)
-3. How to modify your website structure (Structure tab)
-4. How to change your website style (Style tab)
-5. More information about GitHub Actions (Git Actions tab)
-
-Click on each tab to learn more.
-
-
-
+![QR code to access this website](Qq7fjTBxkGwiu5Y_Untitled 2026-07-15.png)
