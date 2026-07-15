@@ -22,4 +22,4 @@ Use the `Guest` or `secure-guest` WiFi networks to connect to WiFi. See the CSHL
 
 This website: [https://bit.ly/4gGfsPP](https://bit.ly/4gGfsPP)
 
-![QR code to access this website](Qq7fjTBxkGwiu5Y_Untitled 2026-07-15.png)
+![QR code to access this website](resources/images/Qq7fjTBxkGwiu5Y_Untitled 2026-07-15.png)
