@@ -1,5 +1,5 @@
 ---
-title: "*Workshops at the ITCR Annual Meeting 2026**"
+title: "**Workshop Info**"
 output:
   html_document
 ---
