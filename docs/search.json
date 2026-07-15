@@ -198,8 +198,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website Name",
+    "title": "*Workshops at the ITCR Annual Meeting 2026**",
     "section": "",
-    "text": "Banner text!\n\n\nAbout\nThis website was created with the OTTR_Quarto website template.\nThis enables simpler creation of websites that have automated checks for broken URLs and spelling errors, as well as automated rendering of all html files. No need to worry about git conflicts for html files! See ottrproject.org for more docs and details.\nHere is how you can include images in your website pages (this one is saved in resources/images to keep things tidy:\n\n\n\n\n\n\n\n\n\nWe will go through the following:\n\nHow to set up your repository to enable the GitHub actions of the template. (Setup tab)\nHow to host your website using GitHub (Hosting tab)\nHow to modify your website structure (Structure tab)\nHow to change your website style (Style tab)\nMore information about GitHub Actions (Git Actions tab)\n\nClick on each tab to learn more."
+    "text": "PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations\n\n4 - 6 pm\nGrace Auditorium\n\nBeyond the Basics for Cancer Informatics Data Visualization\n\n7 - 8:30 pm\nGrace Auditorium"
+  },
+  {
+    "objectID": "index.html#workshops",
+    "href": "index.html#workshops",
+    "title": "*Workshops at the ITCR Annual Meeting 2026**",
+    "section": "",
+    "text": "PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations\n\n4 - 6 pm\nGrace Auditorium\n\nBeyond the Basics for Cancer Informatics Data Visualization\n\n7 - 8:30 pm\nGrace Auditorium"
+  },
+  {
+    "objectID": "index.html#wifi-and-website-access",
+    "href": "index.html#wifi-and-website-access",
+    "title": "*Workshops at the ITCR Annual Meeting 2026**",
+    "section": "WiFi and Website access",
+    "text": "WiFi and Website access\nUse the Guest or secure-guest WiFi networks to connect to WiFi. See the CSHL Meeting Slack for information on how to connect to the secure-guest network.\nThis website: https://bit.ly/4gGfsPP\n\n\n\nQR code to access this website"
   }
 ]
