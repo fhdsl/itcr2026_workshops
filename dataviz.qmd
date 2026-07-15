@@ -1,10 +1,16 @@
 # Beyond the Basics for Cancer Informatics Data Visualization
 
+
+This workshop will be delivered by the [ITCR Training Network](https://www.itcrtraining.org/). 
+```{r, echo = FALSE, fig.width=3}
+knitr::include_graphics(here::here("resources", "images", "itn.png"))
+```
+
 ## Slides
 
 [Slides are available here](https://docs.google.com/presentation/d/13V-lywz7wrZz-NIojiRIh1xx_ZvVhyUQwWsC7xrWjmw/edit?usp=sharing)
 
-## Please have
+## Needed resources
 
 A phone or laptop for interactive `slido` questions.
 
