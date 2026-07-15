@@ -81,7 +81,7 @@
     "href": "dataviz.html",
     "title": "Beyond the Basics for Cancer Informatics Data Visualization",
     "section": "",
-    "text": "Slides are available here\n\n\n\nA phone or laptop for interactive slido questions.\nA laptop to play with data for the activity – you can use R or Python, whatever you are most comfortable with.\n\n\n\n\n\nThe Xpresso model was developed to predict gene expression from DNA sequence alone.\nRaw data is available here: https://ars.els.cdn.com/content/image/1-s2.0-S2211124720306161-mmc2.xlsx\n\n\n\n\nThe available data includes experimentally known gene expression in several cell types as well as predicted gene expression for those cell types.\n\n\n\nIn this activity, we are going to perform several exploratory data visualization steps. Then, we will build and polish an expository data visualization."
+    "text": "This workshop will be delivered by the ITCR Training Network.\n\n\n\n\n\n\n\n\n\n\n\nSlides are available here\n\n\n\nA phone or laptop for interactive slido questions.\nA laptop to play with data for the activity – you can use R or Python, whatever you are most comfortable with.\n\n\n\n\n\nThe Xpresso model was developed to predict gene expression from DNA sequence alone.\nRaw data is available here: https://ars.els.cdn.com/content/image/1-s2.0-S2211124720306161-mmc2.xlsx\n\n\n\n\nThe available data includes experimentally known gene expression in several cell types as well as predicted gene expression for those cell types.\n\n\n\nIn this activity, we are going to perform several exploratory data visualization steps. Then, we will build and polish an expository data visualization."
   },
   {
     "objectID": "dataviz.html#slides",
@@ -91,8 +91,8 @@
     "text": "Slides are available here"
   },
   {
-    "objectID": "dataviz.html#please-have",
-    "href": "dataviz.html#please-have",
+    "objectID": "dataviz.html#needed-resources",
+    "href": "dataviz.html#needed-resources",
     "title": "Beyond the Basics for Cancer Informatics Data Visualization",
     "section": "",
     "text": "A phone or laptop for interactive slido questions.\nA laptop to play with data for the activity – you can use R or Python, whatever you are most comfortable with."
@@ -205,21 +205,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Workshop Info",
+    "title": "Workshops at ITCR 2026",
     "section": "",
-    "text": "PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations\n\n4 - 6 pm\nGrace Auditorium\n\nBeyond the Basics for Cancer Informatics Data Visualization\n\n7 - 8:30 pm\nGrace Auditorium"
-  },
-  {
-    "objectID": "index.html#workshops",
-    "href": "index.html#workshops",
-    "title": "Workshop Info",
-    "section": "",
-    "text": "PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations\n\n4 - 6 pm\nGrace Auditorium\n\nBeyond the Basics for Cancer Informatics Data Visualization\n\n7 - 8:30 pm\nGrace Auditorium"
+    "text": "PhysiCell: Building and Exploring Web-Based Cancer Therapy Simulations\nBeyond the Basics for Cancer Informatics Data Visualization"
   },
   {
     "objectID": "index.html#wifi-and-website-access",
     "href": "index.html#wifi-and-website-access",
-    "title": "Workshop Info",
+    "title": "Workshops at ITCR 2026",
     "section": "WiFi and Website access",
     "text": "WiFi and Website access\nUse the Guest or secure-guest WiFi networks to connect to WiFi. See the CSHL Meeting Slack for information on how to connect to the secure-guest network.\nThis website: https://bit.ly/4gGfsPP\n\n\n\nQR code to access this website"
   }
